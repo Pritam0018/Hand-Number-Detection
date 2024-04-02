@@ -1,1 +1,1 @@
-# Hand-Number-Detection
+# Hand-Number-Detection Usinng OPENCV and CNN.
